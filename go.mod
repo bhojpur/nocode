@@ -1,3 +1,3 @@
-module github.com/rancher/nocode
+module github.com/bhojpur/nocode
 
-go 1.14
+go 1.17
